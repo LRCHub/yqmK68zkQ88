@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ユリイカ",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-22T03:39:58.113943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eureka [ユリイカ]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_Eureka_[ユリイカ]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eureka) (Shotaro Aoyama Remix) [ユリイカ]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/02_Eureka)_(Shotaro_Aoyama_Remix)_[ユリイカ]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ユリイカ",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_ユリイカ_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ユリイカ",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_ユリイカ_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ユリイカ (Shotaro Aoyama Remix)",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/05_ユリイカ_(Shotaro_Aoyama_Remix)_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ユリイカ (Shotaro Aoyama Remix)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/06_ユリイカ_(Shotaro_Aoyama_Remix)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ユリイカ",
+      "artist": "Does",
+      "has_synced": false,
+      "path": "select/07_ユリイカ_Does.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ユリイカ",
+      "artist": "BUCK‐TICK",
+      "has_synced": false,
+      "path": "select/08_ユリイカ_BUCK‐TICK.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ユリイカ",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/09_ユリイカ_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ユリイカ (Shotaro Aoyama Remix)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/10_ユリイカ_(Shotaro_Aoyama_Remix)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ユリイカ",
+      "artist": "BUCK-TICK",
+      "has_synced": false,
+      "path": "select/11_ユリイカ_BUCK-TICK.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "サカナクション - ユリイカ (MUSIC VIDEO)",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/12_サカナクション_-_ユリイカ_(MUSIC_VIDEO)_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユリイカ",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_ユリイカ_ロクデナシ.txt"
+    }
+  ]
+}
